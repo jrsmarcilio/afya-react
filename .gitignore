@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# PDF Afya
+/src/assets/img/afya-manual-identidade-visual.pdf
+/src/assets/img/PNG
